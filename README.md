@@ -1,1 +1,1 @@
-# Pythonic-Implementation
+# Frequentist Inference
